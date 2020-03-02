@@ -1,5 +1,5 @@
-# ERROR 404 :(
-#  SERVER ERROR :(  :(
+---
+# ERROR 404 / SERVER ERROR  "  ;(  :(  :(  "
 ---
 ===============================================================================
 #                     - Made By Aditya Prakash -
@@ -10,6 +10,7 @@
 ### Want To Share Link ?
 ### link --- https://aditya8prakash.github.io/Aditya-s-Webpage-Games/
 
-### Till then ENJOY !!!!! :) :) :) :) ...................
+### Meet In My Next Website ;)
+### Till then ENJOY !!!!! :) :) :) :) ..................................
 ---
 ===============================================================================
